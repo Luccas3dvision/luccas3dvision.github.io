@@ -1,39 +1,113 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document_Nprject</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Lucas Cerqueira - Desenvolvedor Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2079c7;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px auto;
+            max-width: 1000px;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2079c7;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #2079c7;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .contact-info {
+            text-align: right;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
 </head>
 <body>
-    <!-- calculadora com javascript -->
-    <form class="calculator" name="calc">
-        <input class="value" type="txt" name="txt" id="txt" reandoly="">
-        <!-- chama funcao no javaScript-->
-        <!-- limpa campo -->
-        <span class="num clear" onclick="document.calc.txt.value =''">c</span>
-        <span class="num" onclick="document.calc.txt.value +='/'">/</span>
-        <span class="num" onclick="document.calc.txt.value +='*'">*</span>
-        <span class="num" onclick="botao(7)">7</span>
-        <span class="num" onclick="botao(8)">8</span>
-        <span class="num" onclick="botao(9)">9</span>
-        <span class="num" onclick="document.calc.txt.value +='-'">-</span>
-        <span class="num" onclick="botao(4)">4</span>
-        <span class="num" onclick="botao(5)">5</span>
-        <span class="num" onclick="botao(6)">6</span>
-        <span class="num" onclick="document.calc.txt.value +='+'">+</span>
-        <span class="num" onclick="botao(1)">1</span>
-        <span class="num" onclick="botao(3)">3</span>
-        <span class="num" onclick="botao(2)">2</span>
-        <!-- Porcentagem -->
-        <span class="num" onclick="botao(0)">%</span>
-        <span class="num" onclick="botao(00)">0</span>
-        <span class="num" onclick="botao(00)">00</span>
-        <span class="num" onclick="document.calc.txt.value +='.'">.</span>
-        <span class="num equal" onclick="document.calc.txt.value = eval(calc.txt.value)">=</span>
-    </form>
-    
-    <script src='javaScript.js'></script>
+
+<header>
+    <h1>Lucas Cerqueira</h1>
+    <p>Desenvolvedor Web</p>
+</header>
+
+<section>
+    <h2>Contato</h2>
+    <p><a href="mailto:lucas.devsp7@gmail.com">lucas.devsp7@gmail.com</a></p>
+    <p><a href="https://github.com/Luccas3dvision" target="_blank">GitHub: Luccas3dvision</a></p>
+</section>
+
+<section>
+    <h2>Experiência</h2>
+    <ul>
+        <li><strong>Rádio Jovem Pan Online</strong> - Web Designer (2009 - 2011)</li>
+        <ul>
+            <li>Criação de layouts de blogs e promoções com Flash e Photoshop.</li>
+            <li>Manutenção de blogs usando CSS/HTML e WordPress.</li>
+            <li>Desenvolvimento de templates dinâmicos para a plataforma online.</li>
+        </ul>
+        <li><strong>Pró-Beleza</strong> - Desenvolvedor Web (2017 - 2018)</li>
+        <ul>
+            <li>Manutenção e suporte de websites, incluindo Probeleza.com.br e Contratodeparceria.com.br.</li>
+            <li>Criação de banners, folders, e cartões de visita.</li>
+            <li>Desenvolvimento de soluções customizadas com HTML/CSS e JavaScript.</li>
+        </ul>
+        <li><strong>Clovis.com.br</strong> - Web Designer (2021 - Atualmente)</li>
+        <ul>
+            <li>Desenvolvimento de templates HTML para campanhas de e-mail marketing.</li>
+            <li>Otimização do front-end e segmentação de campanhas.</li>
+            <li>Implementação de filtros de busca avançados e melhoria na experiência do usuário.</li>
+        </ul>
+    </ul>
+</section>
+
+<section>
+    <h2>Competências</h2>
+    <ul>
+        <li>WordPress, PHP</li>
+        <li>JavaScript, Node.js, SQL</li>
+        <li>Docker, GitHub</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Portfólio</h2>
+    <ul>
+        <li><a href="https://replit.com/@Luccas3dvision/DatabaseReplit?v=1" target="_blank">Sistema CRUD</a></li>
+        <li><a href="https://replit.com/@Luccas3dvision/ApiPython?v=1" target="_blank">API Fake</a></li>
+        <li><a href="https://replit.com/@Luccas3dvision/CalculadoraJavaScripit-2?v=1" target="_blank">Calculadora JavaScript</a></li>
+        <li><a href="https://replit.com/@Luccas3dvision/WebScrapJS?v=1" target="_blank">Web Scrapy</a></li>
+    </ul>
+</section>
+
+<footer>
+    <p style="text-align:center;">© 2024 Lucas Cerqueira</p>
+</footer>
+
 </body>
 </html>
