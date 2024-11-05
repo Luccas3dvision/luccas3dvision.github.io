@@ -1,7 +1,7 @@
 # Lucas Cerqueira - Full Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Luccas3dvision-2079c7?style=for-the-badge&logo=github)](https://github.com/Luccas3dvision)
-[![Email](https://img.shields.io/badge/Email-lucas.devsp7@gmail.com-2079c7?style=for-the-badge&logo=gmail)](mailto:lucas.devsp7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-luccas.sp7@gmail.com-2079c7?style=for-the-badge&logo=gmail)](mailto:luccas.sp7@gmail.com)
 
 ---
 
