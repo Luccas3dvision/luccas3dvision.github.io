@@ -37,7 +37,7 @@ Aqui estão alguns dos meus projetos recentes:
 
 ## 📧 Contato
 
-- **Email:** [lucas.devsp7@gmail.com](mailto:lucas.devsp7@gmail.com)
+- **Email:** [luccas.sp7@gmail.com](mailto:luccas.sp7@gmail.com)
 - **GitHub:** [github.com/Luccas3dvision](https://github.com/Luccas3dvision)
 
 ---
