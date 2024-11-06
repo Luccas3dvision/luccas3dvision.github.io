@@ -28,7 +28,7 @@ Desenvolvedor Full Stack com experiência em desenvolvimento web, focado em **Ja
 
 Aqui estão alguns dos meus projetos recentes:
 
-- [**Sistema CRUD**](https://replit.com/@Luccas3dvision/DatabaseReplit?v=1): Aplicação CRUD completa utilizando **Node.js** e **MongoDB**.
+- [**Sistema CRUD**](https://replit.com/@Luccas3dvision/DatabaseReplit?v=1): Aplicação CRUD completa utilizando **Node.js**.
 - [**API Fake**](https://replit.com/@Luccas3dvision/ApiPython?v=1): API fake simples para testes, desenvolvida em **Python**.
 - [**Calculadora JavaScript**](https://replit.com/@Luccas3dvision/CalculadoraJavaScripit-2?v=1): Uma calculadora funcional desenvolvida com **JavaScript**.
 - [**Web Scraping com JavaScript**](https://replit.com/@Luccas3dvision/WebScrapJS?v=1): Aplicação para scraping de sites utilizando **JavaScript**.
